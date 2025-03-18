@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+shap
+matplotlib
+seaborn
+scikit-learn
+flask
+imblearn
+community
+textblob
